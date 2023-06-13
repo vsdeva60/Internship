@@ -1,2 +1,0 @@
-# Internship
-projects and worksheets
